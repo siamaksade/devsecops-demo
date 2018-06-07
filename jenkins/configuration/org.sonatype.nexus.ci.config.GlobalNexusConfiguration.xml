@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<org.sonatype.nexus.ci.config.GlobalNexusConfiguration plugin="nexus-jenkins-plugin@3.0.20180425-130011.728733c">
+  <nxrmConfigs/>
+  <iqConfigs>
+    <org.sonatype.nexus.ci.config.NxiqConfiguration>
+      <serverUrl>http://nexus-iq:8070/</serverUrl>
+      <isPkiAuthentication>false</isPkiAuthentication>
+      <credentialsId>cicd-nexus-iq</credentialsId>
+    </org.sonatype.nexus.ci.config.NxiqConfiguration>
+  </iqConfigs>
+  <instanceId>792c6f8d7be2416ebdbae50dae1a328b</instanceId>
+</org.sonatype.nexus.ci.config.GlobalNexusConfiguration>

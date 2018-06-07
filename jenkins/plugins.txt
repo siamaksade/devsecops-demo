@@ -1,0 +1,1 @@
+nexus-jenkins-plugin:3.0.20180214-134325.e135900
